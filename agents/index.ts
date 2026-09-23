@@ -9,7 +9,7 @@ async function runAgent() {
     contents: [
       {
         role: "user",
-        parts: [{ text: "Generate the Android onboarding UI." }]
+        parts: [{ text: "Generate the Android onboarding UI for BizzArts." }]
       }
     ]
   });
